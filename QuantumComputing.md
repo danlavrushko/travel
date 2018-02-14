@@ -1,1 +1,1 @@
-[Microsoft Presentation Videos](aka.ms/QuantumPlaylist)
+[Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
