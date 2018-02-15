@@ -5,3 +5,5 @@
 [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
 
 [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
+
+[Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
