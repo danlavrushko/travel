@@ -7,3 +7,5 @@
 [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
 
 [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
+
+[BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
