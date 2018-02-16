@@ -9,3 +9,5 @@
 [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
 
 [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
+
+[BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
