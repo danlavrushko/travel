@@ -1,3 +1,5 @@
+## History
+
 * **1994** - Peter Shor proposed a quantum algorithm that factors integers exponentially faster than any known classical algorithm — an efficiency that could allow it to crack many popular encryption schemes.
 
 Running Shor’s algorithm for integers large enough to unlock a standard 128-bit encryption key, for instance, would require **thousands of qubits** — plus probably many thousands more to correct for errors.
@@ -15,6 +17,8 @@ Running Shor’s algorithm for integers large enough to unlock a standard 128-bi
 * **11 грудня 2017 року** - Microsoft випустила Q# у складі Quantum Development Kit [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
 
 * **9 січня 2018 року** - на виставці CES 2018 компанія Intel представила чіп квантового комп'ютера на 49 кубіт з назвою Tangle Lake. В процесорі використані надпровідні ланцюги, робоча температура яких дорівнює 20 мілікельвін. [Вікіпедія](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
+
+## Definitions and facts
 
 Q# (pronounced as Q sharp) is a domain-specific programming language used for expressing quantum algorithms. [Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
 
