@@ -1,6 +1,6 @@
 * **1994** - Peter Shor proposed a quantum algorithm that factors integers exponentially faster than any known classical algorithm — an efficiency that could allow it to crack many popular encryption schemes.
 
-Running Shor’s algorithm for integers large enough to unlock a standard 128-bit encryption key, for instance, would require **thousands of qubits** — plus probably many thousands more to correct for errors. Experimentalists, meanwhile, were fumbling while trying to control more than a handful.
+Running Shor’s algorithm for integers large enough to unlock a standard 128-bit encryption key, for instance, would require **thousands of qubits** — plus probably many thousands more to correct for errors.
 
 * **1996** - Lov Grover devised an algorithm that speeds up the classically tedious process of searching through unsorted databases. 
 
@@ -36,22 +36,21 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 
 D-Wave 2X
 
+## Videos
 1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
+1. [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
+1. [Introduction the D-Wave 2X](https://www.youtube.com/watch?v=-LhPE6FpJYk)
 
+## Q# Development Kit Resources
 1. [Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
-
 1. [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
 
+## Articles
 1. [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
-
-1. [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
-
 1. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
-
 1. [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
-
 1. [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
-
-1. [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
-
 1. [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
+
+## Books
+1. [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
