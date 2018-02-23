@@ -20,22 +20,22 @@ Quantum processors from one of the leading manufacturers in this field - [D-Wave
 
 Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
 
-+ [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
+1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
 
-+ [Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
+1. [Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
 
-+ [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
+1. [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
 
-+ [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
+1. [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
 
-+ [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
+1. [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
 
-+ [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
+1. [BBC] [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 
-+ [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
+1. [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
 
-+ [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
+1. [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
 
-+ [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
+1. [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
 
-+ [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
+1. [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
