@@ -38,8 +38,6 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 
 Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
 
-D-Wave 2X
-
 ## Videos
 1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
 1. [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
