@@ -1,3 +1,9 @@
+* **1994** - Peter Shor proposed a quantum algorithm that factors integers exponentially faster than any known classical algorithm — an efficiency that could allow it to crack many popular encryption schemes.
+
+Running Shor’s algorithm for integers large enough to unlock a standard 128-bit encryption key, for instance, would require **thousands of qubits** — plus probably many thousands more to correct for errors. Experimentalists, meanwhile, were fumbling while trying to control more than a handful.
+
+* **1996** - Lov Grover devised an algorithm that speeds up the classically tedious process of searching through unsorted databases. 
+
 * **2010** - D-Wave 1 was released which included 128 qubits processor
 
 * **2013** - D-Wave 2 was released which included 512 qubits processor
