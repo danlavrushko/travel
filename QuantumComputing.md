@@ -16,24 +16,26 @@ Quantum superposition is a fundamental principle of quantum mechanics. It states
 
 Quantum entanglement is a physical phenomenon which occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_entanglement)
 
+Quantum processors from one of the leading manufacturers in this field - [D-Wave](https://www.dwavesys.com/) - need to be cooled to just above absolute zero (-273.15C). They also need to be free from any electromagnetic interference.
+
 Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
 
-[Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
++ [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
 
-[Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
++ [Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
 
-[Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
++ [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
 
-[Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
++ [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
 
-[Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
++ [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
 
-[BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
++ [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 
-[BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
++ [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
 
-[Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
++ [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
 
-[Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
++ [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
 
-[Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
++ [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
