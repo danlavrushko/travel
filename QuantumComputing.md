@@ -22,7 +22,9 @@ Quantum superposition is a fundamental principle of quantum mechanics. It states
 
 Quantum entanglement is a physical phenomenon which occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_entanglement)
 
-Quantum processors from one of the leading manufacturers in this field - [D-Wave](https://www.dwavesys.com/) - need to be cooled to just above absolute zero (-273.15C). They also need to be free from any electromagnetic interference. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
+Quantum processors from one of the leading manufacturers in this field - [D-Wave](https://www.dwavesys.com/) - need to be cooled to just above absolute zero (-273.15C). They also need to be free from any electromagnetic interference. 
+
+D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 
 Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
 
