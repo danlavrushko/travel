@@ -1,3 +1,9 @@
+* **2010** - D-Wave 1 was released which included 128 qubits processor
+
+* **2013** - D-Wave 2 was released which included 512 qubits processor
+
+* **2015** - D-Wave 2X was announced with over a **1K (!!!)** qubits processor. The new system runs at the temperature below 15 mK.
+
 * **Листопад 2017 року** - компанія IBM представила прототип квантового комп'ютера з 50 кубіт. В представленому прототипі час когерентності кубіт (час, протягом якого вони можуть залишатись в стані суперпозиції та виконувати корисні обчислення) вдалось збільшити до 90 мікросекунд. [Вікіпедія](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
 
 * **11 грудня 2017 року** - Microsoft випустила Q# у складі Quantum Development Kit [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
@@ -19,6 +25,8 @@ Quantum entanglement is a physical phenomenon which occurs when pairs or groups 
 Quantum processors from one of the leading manufacturers in this field - [D-Wave](https://www.dwavesys.com/) - need to be cooled to just above absolute zero (-273.15C). They also need to be free from any electromagnetic interference. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 
 Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
+
+D-Wave 2X
 
 1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
 
