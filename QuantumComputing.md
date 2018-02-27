@@ -49,6 +49,7 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 1. [Microsoft Docs to Start](https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro)
 
 ## Articles
+1. [A Beginner’s Guide to Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/06/a-beginners-guide-to-quantum-computing-and-q/)
 1. [Quantum Computing, Community](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/)
 1. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 1. [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
