@@ -42,6 +42,7 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
 1. [Educational Video on Youtube](https://www.youtube.com/watch?v=JhHMJCUmq28)
 1. [Introduction the D-Wave 2X](https://www.youtube.com/watch?v=-LhPE6FpJYk)
+1. [The animated guide to quantum computing](https://www.youtube.com/watch?v=glLPHgRle7o)
 
 ## Q# Development Kit Resources
 1. [Microsoft Quantum Repository on Github](https://github.com/Microsoft/Quantum)
