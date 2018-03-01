@@ -36,7 +36,9 @@ Quantum processors from one of the leading manufacturers in this field - [D-Wave
 
 D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bbc.com/news/business-35886456)
 
-Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure. [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
+Квантовий симулятор, який постачається у Quantum Development Kit, здатний створювати до 32 кубітів на локальній машині або 40 кубітів на Azure (16 терабайт оперативної пам'яті). [Вікіпедія](https://uk.wikipedia.org/wiki/Q_Sharp)
+
+To simulate 260 qubits on clasical computer, you would need more bits than there are atoms in the known universe. [We Have the Qubits You Want](https://www.barrons.com/articles/microsoft-we-have-the-qubits-you-want-1519434417)
 
 ## Videos
 1. [Microsoft Presentation Videos](http://aka.ms/QuantumPlaylist)
@@ -55,6 +57,7 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 1. [BBC: MSFT on Quantum Computing](http://www.bbc.com/news/business-42797846)
 1. [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
 1. [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
+1. [We Have the Qubits You Want](https://www.barrons.com/articles/microsoft-we-have-the-qubits-you-want-1519434417)
 
 ## Books
 1. [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
