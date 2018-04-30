@@ -13,6 +13,8 @@
 
 1. <a href="https://www.facebook.com/Храм-святого-Великомученика-Димитрія-1664431083770539/" target="_blank">Лайкніть у Facebook</a>.
 1. <a href="http://velychlviv.com/hram-sv-dymytriya-sakralnyj-spadok-kostyantyna-kornyakta-ta-yana-nepomutsena-nikorovycha-lvovu/" target="_blank">З історії церкви</a>.
+1. <a href="http://lviv1256.com/history/nevidomi-zbojischa-abo-vid-tatarskoji-navaly-do-radyanskoji-hiljotyny/" target="_blank">З історії Збоїщ</a>.
+
 
 # Як добратися до ресторану
 
